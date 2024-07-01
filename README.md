@@ -1,59 +1,66 @@
 # Gurulingua
 
-Gurulingua, dil öğrenme sürecini eğlenceli, etkili ve erişilebilir kılmak amacıyla tasarlanmış kapsamlı bir dil öğrenme uygulamasıdır. Bu uygulama, interaktif egzersizler, kişiselleştirilmiş öğrenme deneyimleri, kullanıcı profili takibi ve daha fazlasını sunar. Kullanıcılar, favori kelimelerini işaretleyebilir, yaptıkları hataları takip edebilir ve öğrenme süreçlerini özelleştirebilirler.
+Gurulingua is a comprehensive language learning application designed to make the learning process fun, effective, and accessible. This app offers interactive exercises, personalized learning experiences, user profile tracking, and more. Users can mark their favorite words, track their mistakes, and customize their learning process.
 
-Gurulingua'nın başlıca özellikleri arasında kullanıcı girişi ve kayıt, etkileşimli oyunlar ve egzersizler, kullanıcı profili kurulumu, ilerleme takibi, sosyal entegrasyon ve daha fazlası bulunmaktadır. Uygulama, kullanıcıların dil öğrenme süreçlerini daha etkili ve keyifli hale getirmek için modern teknolojiler ve kullanıcı dostu bir arayüz ile geliştirilmiştir.
+The main features of Gurulingua include user login and registration, interactive games and exercises, user profile setup, progress tracking, social integration, and more. The application is developed with modern technologies and a user-friendly interface to make the language learning process more effective and enjoyable.
 
-![Gurulingua (2)](https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/cc4d3211-6df9-4f31-9f78-a5f41edbecfe)
+![Gurulingua (2)](https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/c386549c-012f-46b1-a2ea-f2da3c048ab1)
 
-## Özellikler
 
-### Kullanıcı Girişi ve Kayıt
-- Firebase Auth ve Google ile giriş seçenekleri ile güvenli kullanıcı girişi.
+https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/9390a3cc-d690-4361-aea8-a68f681b8bda
 
-### Kullanıcı Profili
-- Kullanıcılar profil bilgilerini güncelleyebilir ve ilerlemelerini takip edebilir.
-- Kullanıcılar favori kelimelerini işaretleyebilir ve hatalarını takip edebilir.
-- Kullanıcılar diledikleri zaman profillerini tamamlayabilir veya güncelleyebilir.
 
-### Etkileşimli Egzersizler
-- Dil öğrenme sürecini destekleyen çeşitli oyunlar ve egzersizler.
-- Doğru eşleştirme yapan kullanıcılar için animasyonlu buton kaybolma özelliği.
-- Kullanıcılar doğru cevaplar vererek puan toplayabilir ve ilerlemelerini görebilir.
 
-### Favori Kelimeler ve Hata Takibi
-- Kullanıcılar favori kelimelerini işaretleyebilir.
-- Kullanıcılar hatalarını takip edebilir ve bu hataları tekrar gözden geçirebilir.
+## Features
 
-## Kullanılan Teknolojiler
+### User Login and Registration
+- Secure user login with Firebase Auth and Google sign-in options.
 
-### Dil ve Çerçeveler
-- **Kotlin**: Android geliştirme için kullanılan modern ve güçlü bir programlama dili.
-- **Firebase Auth**: Kullanıcı kimlik doğrulama ve yönetimi için kullanılır.
-- **Google Sign-In**: Kullanıcıların Google hesaplarıyla uygulamaya giriş yapmalarını sağlar.
+### User Profile
+- Users can update their profile information and track their progress.
+- Users can mark their favorite words and track their mistakes.
+- Users can complete or update their profiles at any time.
 
-### Ana Özellikler
-- **Kullanıcı Girişi ve Kayıt**: Firebase Auth ve Google Sign-In entegrasyonu.
-- **Kullanıcı Profili**: Kullanıcı bilgilerini yönetmek için Firebase Firestore kullanımı.
-- **Etkileşimli Egzersizler**: Oyun ve egzersizlerin yönetimi için MVVM mimarisi.
-- **Favori Kelimeler ve Hata Takibi**: Room veri tabanı kullanarak kullanıcı verilerini saklama.
+### Interactive Exercises
+- Various games and exercises to support the language learning process.
+- Animated button disappearance feature for users who make correct matches.
+- Users can collect points and see their progress by giving correct answers.
 
-### Kod Yapısı
-- **MVVM Mimarisi**: View ve ViewModel sınıfları ile yapılandırılmış modüler kod yapısı.
-- **Dagger Hilt**: Dependency Injection için kullanılır.
-- **Room**: Veritabanı yönetimi için kullanılır.
-- **SharedPreferences**: Kullanıcı tercihlerini saklamak için kullanılır.
+### Favorite Words and Mistake Tracking
+- Users can mark their favorite words.
+- Users can track their mistakes and review them again.
 
-### Yapı ve Konfigürasyon Dosyaları
-- **Gradle Yapı Betikleri**: Proje bağımlılıklarını yönetmek ve yapılandırmak için kullanılır.
-- **Firebase Konfigürasyon Dosyası** (`google-services.json`): Firebase projeleri ile entegrasyon için gerekli ayarları içerir.
-- **Proguard Kuralları**: Kod gizleme ve optimizasyon için kullanılır.
+## Technologies Used
 
-## Kurulum
+### Languages and Frameworks
+- **Kotlin**: A modern and powerful programming language used for Android development.
+- **Firebase Auth**: Used for user authentication and management.
+- **Google Sign-In**: Allows users to sign in with their Google accounts.
 
-### Geliştirme Ortamında Kurulum
+### Key Features
+- **User Login and Registration**: Integration of Firebase Auth and Google Sign-In.
+- **User Profile**: Managing user information using Firebase Firestore.
+- **Interactive Exercises**: Managing games and exercises with MVVM architecture.
+- **Favorite Words and Mistake Tracking**: Storing user data using Room database.
 
-1. Uygulamayı deneyin:
-   ```bash
-   https://drive.google.com/file/d/1EXvGLwERL4N4jvf-RH0ZlwfRpp1MQXSR/view?usp=drive_link
-   
+### Code Structure
+- **MVVM Architecture**: Modular code structure with View and ViewModel classes.
+- **Dagger Hilt**: Used for dependency injection.
+- **Room**: Used for database management.
+- **SharedPreferences**: Used for storing user preferences.
+
+### Build and Configuration Files
+- **Gradle Build Scripts**: Used to manage and configure project dependencies.
+- **Firebase Configuration File** (`google-services.json`): Contains necessary settings for integration with Firebase projects.
+- **Proguard Rules**: Used for code obfuscation and optimization.
+
+## Installation
+
+https://drive.google.com/file/d/1EXvGLwERL4N4jvf-RH0ZlwfRpp1MQXSR/view?usp=drive_link
+
+
+
+
+
+
+
