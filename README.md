@@ -4,6 +4,8 @@ Gurulingua, dil öğrenme sürecini eğlenceli, etkili ve erişilebilir kılmak 
 
 Gurulingua'nın başlıca özellikleri arasında kullanıcı girişi ve kayıt, etkileşimli oyunlar ve egzersizler, kullanıcı profili kurulumu, ilerleme takibi, sosyal entegrasyon ve daha fazlası bulunmaktadır. Uygulama, kullanıcıların dil öğrenme süreçlerini daha etkili ve keyifli hale getirmek için modern teknolojiler ve kullanıcı dostu bir arayüz ile geliştirilmiştir.
 
+![Gurulingua (2)](https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/cc4d3211-6df9-4f31-9f78-a5f41edbecfe)
+
 ## Özellikler
 
 ### Kullanıcı Girişi ve Kayıt
@@ -51,6 +53,7 @@ Gurulingua'nın başlıca özellikleri arasında kullanıcı girişi ve kayıt, 
 
 ### Geliştirme Ortamında Kurulum
 
-1. Bu depoyu klonlayın:
+1. Uygulamayı deneyin:
    ```bash
-   git clone https://github.com/kullanici_adi/Gurulingua.git
+   https://drive.google.com/file/d/1EXvGLwERL4N4jvf-RH0ZlwfRpp1MQXSR/view?usp=drive_link
+   
