@@ -51,11 +51,6 @@ https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/9390a3cc
 - **Room**: Used for database management.
 - **SharedPreferences**: Used for storing user preferences.
 
-### Build and Configuration Files
-- **Gradle Build Scripts**: Used to manage and configure project dependencies.
-- **Firebase Configuration File** (`google-services.json`): Contains necessary settings for integration with Firebase projects.
-- **Proguard Rules**: Used for code obfuscation and optimization.
-
 ## Installation
 
 https://drive.google.com/file/d/1EXvGLwERL4N4jvf-RH0ZlwfRpp1MQXSR/view?usp=drive_link
