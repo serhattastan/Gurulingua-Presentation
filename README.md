@@ -6,6 +6,8 @@ The main features of Gurulingua include user login and registration, interactive
 
 ![Gurulingua (2)](https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/c386549c-012f-46b1-a2ea-f2da3c048ab1)
 
+![guruuu](https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/16f459cc-df99-407e-bb56-45b59f78ac76)
+
 
 https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/9390a3cc-d690-4361-aea8-a68f681b8bda
 
