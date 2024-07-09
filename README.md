@@ -52,9 +52,7 @@ https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/9390a3cc
 - **SharedPreferences**: Used for storing user preferences.
 
 ## Installation
-
-bit.ly/3zGOiEU
-
+https://bit.ly/3zGOiEU
 
 
 
