@@ -53,7 +53,7 @@ https://github.com/serhattastan/Gurulingua-Presentation/assets/87541365/9390a3cc
 
 ## Installation
 
-https://drive.google.com/file/d/1EXvGLwERL4N4jvf-RH0ZlwfRpp1MQXSR/view?usp=drive_link
+bit.ly/3zGOiEU
 
 
 
